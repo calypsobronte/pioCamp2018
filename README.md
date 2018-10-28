@@ -24,7 +24,7 @@ En esta iniciativa se una [Ruta N ][]y [Workia Spaces][] como facilitadores del 
 * [HTML][]
     * [learnyouhtml][]
 
-## 3. Introduccion a CSS
+## 4. Introduccion a CSS
 * [CSS][]
     * [WorkShop][]
     * [Clon de repo][]
@@ -45,7 +45,7 @@ En esta iniciativa se una [Ruta N ][]y [Workia Spaces][] como facilitadores del 
 [learnyouhtml]: /session3/learnyouhtml/
 [CSS]: https://calypsobronte.github.io/pioCamp2018/session4/introduccion-a-css.html
 [WorkShop]: https://calypsobronte.github.io/pioCamp2018/session4/workshop-css-desde-cero/index.html
-[Clon de repo]: https://calypsobronte.github.io/pioCamp2018/session4/clone-piocamp-css-workshop/final/index.html
+[Clon de repo]: https://calypsobronte.github.io/pioCamp2018/session4/piocamp-css-workshop-clone/final/index.html
 
 <!--imagenes-->
 [PioCamp]: /assets/piocamp.jpg
