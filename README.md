@@ -22,12 +22,13 @@ En esta iniciativa se una [Ruta N ][]y [Workia Spaces][] como facilitadores del 
 
 ## 3. Introduccion a HTML
 * [HTML][]
-    * [learnyouhtml][]
+    ### [Workshop de learnyouhtml][]
+    * [Hola mundo][]
 
 ## 4. Introduccion a CSS
 * [CSS][]
-    * [WorkShop][]
-    * [Clon de repo][]
+    * [WorkShop de CSS desde Cero][]
+    * [Clon de repositorio guia][]
 
 ---
 ![PioCamp][]
@@ -37,15 +38,16 @@ En esta iniciativa se una [Ruta N ][]y [Workia Spaces][] como facilitadores del 
 [Workia Spaces]: https://workia.space/
 [Ruta N]: https://www.rutanmedellin.org/es/
 [Pioneras Developers]: http://pionerasdev.co/
-[Git-Github]: https://calypsobronte.github.io/pioCamp2018/session1/git-github.html
-[Terminal]: https://calypsobronte.github.io/pioCamp2018/session1/terminal.html
-[La Web]: https://calypsobronte.github.io/pioCamp2018/session2/empezar-en-la-web.html
-[HTML]: https://calypsobronte.github.io/pioCamp2018/session3/introduccion-a-html.html
+[Git-Github]: /session1/git-github.html
+[Terminal]: /session1/terminal.html
+[La Web]: /session2/empezar-en-la-web.html
+[HTML]: /session3/introduccion-a-html.html
 [PioCamp Cero]: /session2/piocamp/
-[learnyouhtml]: /session3/learnyouhtml/
-[CSS]: https://calypsobronte.github.io/pioCamp2018/session4/introduccion-a-css.html
-[WorkShop]: https://calypsobronte.github.io/pioCamp2018/session4/workshop-css-desde-cero/index.html
-[Clon de repo]: https://calypsobronte.github.io/pioCamp2018/session4/piocamp-css-workshop-clone/final/index.html
+[Workshop de learnyouhtml]: /session3/learnyouhtml/
+[CSS]: /session4/introduccion-a-css.html
+[WorkShop de CSS desde Cero]: /session4/workshop-css-desde-cero/index.html
+[Clon de repositorio guia]: /session4/piocamp-css-workshop-clone/final/index.html
+[Hola mundo]: /session3/learnyouhtml/hello.html
 
 <!--imagenes-->
 [PioCamp]: /assets/piocamp.jpg
